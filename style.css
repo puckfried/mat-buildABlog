@@ -1,0 +1,30 @@
+h1 {
+    color: grey;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.hero {
+    margin: 100px 0;
+    text-decoration: underline;
+}
+
+div {
+   padding: 30px;
+   margin-bottom: 50px;
+   margin-left: 40px;
+   width: 600px;
+   border: 1px solid #000;  
+   border-radius: 30px;
+   background-color: rgb(143, 158, 153);
+}
+
+
+div img {
+    width: 50%;
+}
+
+div p {
+    font-style: italic;
+}
+
